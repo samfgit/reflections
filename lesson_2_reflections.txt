@@ -7,3 +7,7 @@ stores the temp status of files before commiting changes
 How can you use the staging area to make sure you have one commit per logical change?
 By adding only one related files to the staging area using : commit add
 and making sure the modifications are related by runnig diff --staged before commiting
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Experimental changes
+Different versions
