@@ -3,3 +3,7 @@ To track files.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 stores the temp status of files before commiting changes
+
+How can you use the staging area to make sure you have one commit per logical change?
+By adding only one related files to the staging area using : commit add
+and making sure the modifications are related by runnig diff --staged before commiting
